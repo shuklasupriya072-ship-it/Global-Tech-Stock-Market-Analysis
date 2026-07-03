@@ -57,4 +57,5 @@ Which tech companies truly created long-term wealth — and why do some thrive i
 
 ## 👩‍💻 Author
 **Supriya Shukla** — Data Analyst
-- 🔗 [LinkedIn](https://www.linkedin.com/in/supriya-shukla-a42864330)<img width="1385" height="778" alt="Screenshot 2026-07-02 233853" src="https://github.com/user-attachments/assets/383a1529-9597-4f89-9109-a9b8debc8fe8" />
+- 🔗 [LinkedIn](https://www.linkedin.com/in/supriya-shukla-a42864330)<img width="1380" height="772" alt="Screenshot 2026-07-03 180017" src="https://github.com/user-attachments/assets/0684691c-8f8d-4946-92b0-529a98c43a38" />
+
